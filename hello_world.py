@@ -1,2 +1,3 @@
+# This is a test comment.
 print("Hello World!")
-print("Now go away!")
+print("How are you?!")
